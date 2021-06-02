@@ -1,0 +1,49 @@
+#p_level,#p_level_response, #money,#money_response, #block3,
+#time_response,#remaining_time,#log,#tips_log{
+    position: absolute;
+    padding: 1em;
+
+    color: white;
+    font-family: monospace;
+    white-space: pre;
+    font-size: 18px;
+    background: #00000080;
+}
+#p_level {
+    left: 10px;
+    top: 10px;
+}
+#p_level_response{
+    left: 214px;
+    top:10px;
+}
+#money {
+    left: 10px;
+    top: 70px;
+}
+#money_response{
+    left: 115px;
+    top: 70px;
+}
+#block3 {
+    right: 1vw;
+    top: 1vh;
+}
+
+#remaining_time{
+    bottom:10px;
+    right:105px;
+}
+#time_response {
+    bottom:10px;
+    right:20px;
+}
+#log {
+    bottom: 1vh;
+    left: 1vw;
+}
+#tips_log {
+    top: 1vh;
+    left:20vw;
+    font-size: smaller;
+}
