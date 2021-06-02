@@ -6,9 +6,9 @@
 npm-debug.log
 .jshintrc
 .vs/
-.docs/
-.editor/
-.examples/
+docs/
+editor/
+examples/
 
 
 # The command'npm install --prefix test' adds files in the test folder (https://docs.npmjs.com/configuring-npm/folders.html#executables).
