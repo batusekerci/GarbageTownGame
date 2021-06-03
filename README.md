@@ -1,3 +1,3 @@
 # Garbage Town 
 A browser game which points to environmental problems and their effects.
-WebGl and Three.js are used in development.
+WebGl 2.0 and Three.js are used in development.
